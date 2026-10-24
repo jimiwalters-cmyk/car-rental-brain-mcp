@@ -20,5 +20,8 @@
     "mcp"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://app.carrentalbrain.com/privacy"
+  "privacyPolicyUrl": "https://app.carrentalbrain.com/privacy",
+  "supportUrl": "https://carrentalbrain.com/about/",
+  "documentationUrl": "https://carrentalbrain.com/ai/",
+  "termsOfServiceUrl": "https://app.carrentalbrain.com/terms"
 }
