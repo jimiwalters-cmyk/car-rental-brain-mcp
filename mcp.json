@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "car-rental-brain": {
+      "url": "https://app.carrentalbrain.com/mcp"
+    }
+  }
+}

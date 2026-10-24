@@ -1,0 +1,15 @@
+{
+  "name": "car-rental-brain",
+  "displayName": "Car Rental Brain",
+  "version": "1.0.1",
+  "description": "The real cost of car hire at 120+ airports: price with a second driver or full cover, deposits, debit-card acceptance and desk hours, measured from repeated searches - plus a pre-filled live search link. Read-only, no account.",
+  "author": {
+    "name": "Car Rental Brain",
+    "email": "hello@carrentalbrain.com"
+  },
+  "homepage": "https://carrentalbrain.com/ai/",
+  "repository": "https://github.com/jimiwalters-cmyk/car-rental-brain-mcp",
+  "license": "MIT",
+  "keywords": ["car hire", "car rental", "travel", "airport", "deposit", "second driver", "mcp"],
+  "logo": "logo.png"
+}
