@@ -118,3 +118,10 @@ Privacy policy: [carrentalbrain.com/privacy](https://app.carrentalbrain.com/priv
 ## Contact
 
 hello@carrentalbrain.com
+
+## Licence
+
+The files in this repository are licensed under the [Apache License 2.0](LICENSE); see [NOTICE](NOTICE).
+The **Car Rental Brain name and logo are not covered by this licence** and remain the property of Jimi Walters.
+The server, its code and its data are not in this repository; use of the server is governed by
+[the terms](https://app.carrentalbrain.com/terms).

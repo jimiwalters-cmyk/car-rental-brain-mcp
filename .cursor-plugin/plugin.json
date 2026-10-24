@@ -9,7 +9,15 @@
   },
   "homepage": "https://carrentalbrain.com/ai/",
   "repository": "https://github.com/jimiwalters-cmyk/car-rental-brain-mcp",
-  "license": "MIT",
-  "keywords": ["car hire", "car rental", "travel", "airport", "deposit", "second driver", "mcp"],
+  "license": "Apache-2.0",
+  "keywords": [
+    "car hire",
+    "car rental",
+    "travel",
+    "airport",
+    "deposit",
+    "second driver",
+    "mcp"
+  ],
   "logo": "logo.png"
 }
