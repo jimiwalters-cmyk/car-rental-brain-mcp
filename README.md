@@ -71,6 +71,23 @@ Settings → Apps & Connectors → Advanced → Developer mode → Create → MC
 </details>
 
 <details>
+<summary><strong>Claude Code</strong></summary>
+
+As a plugin (from this repository):
+
+```
+/plugin marketplace add jimiwalters-cmyk/car-rental-brain-mcp
+/plugin install car-rental-brain@car-rental-brain
+```
+
+Or add the server directly:
+
+```
+claude mcp add --transport http car-rental-brain https://app.carrentalbrain.com/mcp
+```
+</details>
+
+<details>
 <summary><strong>Cursor / Windsurf / Cline / VS Code</strong></summary>
 
 ```json

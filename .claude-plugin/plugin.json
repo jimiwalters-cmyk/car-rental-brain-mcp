@@ -1,0 +1,15 @@
+{
+  "name": "car-rental-brain",
+  "displayName": "Car Rental Brain",
+  "version": "1.1.0",
+  "description": "The real cost of car hire at 120+ airports in Europe, the UK and the US: price per day with a second driver or full cover, deposits held, debit-card acceptance and desk hours, measured from repeated searches and dated - plus a pre-filled live search link. Connects to Car Rental Brain's hosted remote MCP server (https://app.carrentalbrain.com/mcp). Read-only, no account, no sign-in.",
+  "author": {
+    "name": "Car Rental Brain",
+    "email": "hello@carrentalbrain.com",
+    "url": "https://carrentalbrain.com"
+  },
+  "homepage": "https://carrentalbrain.com/ai/",
+  "repository": "https://github.com/jimiwalters-cmyk/car-rental-brain-mcp",
+  "license": "Apache-2.0",
+  "keywords": ["car hire", "car rental", "travel", "airport", "deposit", "mcp"]
+}
