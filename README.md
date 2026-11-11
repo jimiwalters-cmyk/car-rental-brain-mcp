@@ -3,7 +3,7 @@
 # Car Rental Brain MCP server
 
 **The real cost of car hire, for AI assistants.** Second-driver fees, deposits, debit-card acceptance, desk hours and
-what excess cover really costs, measured at 120+ airports in Europe, the UK and the US, plus a link to live prices
+what excess cover really costs, measured at 170+ airports in Europe, the UK and the US, plus a link to live prices
 ranked by the total a person will actually pay.
 
 Free. No API key. No login. Read-only.
