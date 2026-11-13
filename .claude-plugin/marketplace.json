@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "car-rental-brain",
-  "description": "Car Rental Brain for Claude Code: the measured true cost of car hire at 170+ airports.",
+  "description": "Car Rental Brain for Claude Code: the measured true cost of car hire at 200+ airports.",
   "owner": {
     "name": "Car Rental Brain",
     "email": "hello@carrentalbrain.com"
@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "car-rental-brain",
-      "description": "Measured true cost of car hire at 170+ airports: second driver, full cover, deposits, debit cards, desk hours, plus a live search link. Read-only remote MCP server, no sign-in.",
+      "description": "Measured true cost of car hire at 200+ airports: second driver, full cover, deposits, debit cards, desk hours, plus a live search link. Read-only remote MCP server, no sign-in.",
       "author": { "name": "Car Rental Brain" },
       "category": "travel",
       "source": "./",
