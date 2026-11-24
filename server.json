@@ -3,7 +3,7 @@
   "name": "com.carrentalbrain/car-rental-brain",
   "title": "Car Rental Brain",
   "description": "Live car-hire prices ranked by true total, plus deposits, debit cards, driver fees at 180+ airports.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "websiteUrl": "https://carrentalbrain.com/ai/",
   "repository": {"url": "https://github.com/jimiwalters-cmyk/car-rental-brain-mcp", "source": "github"},
   "icons": [

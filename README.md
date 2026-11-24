@@ -31,6 +31,7 @@ numbers, so an assistant can say what a rental will really cost - not just what 
 | Tool | What it answers |
 |---|---|
 | `search_rentals` | Live offers for exact dates and needs, ranked by the total paid, each with deposit, excess, debit card, fuel, mileage, free cancellation and desk hours, plus a link to the same cars (5 new searches per conversation; re-asks with a different car for the same place and dates are free) |
+| `track_price_link` | Price-drop alerts: a link where the person enters and confirms their own email, then hears if the price drops (no email passes through the assistant) |
 | `recommend_rental` | A planned trip and its needs (second driver, automatic, debit card, car size, seven seats, deposit limit): the companies that usually suit them, priced for the trip month |
 | `desks_open` | Which desks are still open when a flight lands, each desk's measured closing time and the late pick-up fee |
 | `get_capabilities` | What is measured, how fresh it is, which airports and countries are covered |
