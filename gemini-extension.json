@@ -1,0 +1,10 @@
+{
+  "name": "car-rental-brain",
+  "version": "1.4.0",
+  "description": "Live car-hire prices ranked by true total, plus measured deposits, debit cards and second-driver fees at 180+ airports. Read-only, no account.",
+  "mcpServers": {
+    "car-rental-brain": {
+      "httpUrl": "https://app.carrentalbrain.com/mcp"
+    }
+  }
+}

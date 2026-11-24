@@ -14,6 +14,8 @@ Free. No API key. No login. Read-only.
 https://app.carrentalbrain.com/mcp
 ```
 
+**Gemini CLI:** `gemini extensions install https://github.com/jimiwalters-cmyk/car-rental-brain-mcp`
+
 Listed in the official [MCP Registry](https://registry.modelcontextprotocol.io) as `com.carrentalbrain/car-rental-brain`.
 Website: [carrentalbrain.com](https://carrentalbrain.com) · Agent page: [carrentalbrain.com/ai](https://carrentalbrain.com/ai/)
 
