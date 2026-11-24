@@ -1,8 +1,8 @@
 {
   "name": "car-rental-brain",
   "displayName": "Car Rental Brain",
-  "version": "1.0.1",
-  "description": "The real cost of car hire at 180+ airports: price with a second driver or full cover, deposits, debit-card acceptance and desk hours, measured from repeated searches - plus a pre-filled live search link. Read-only, no account.",
+  "version": "1.1.0",
+  "description": "The real cost of car hire at 180+ airports: price with a second driver or full cover, deposits, debit-card acceptance and desk hours, measured from repeated searches - plus live offers for exact dates ranked by the total paid. Read-only, no account.",
   "author": {
     "name": "Car Rental Brain",
     "email": "hello@carrentalbrain.com"
