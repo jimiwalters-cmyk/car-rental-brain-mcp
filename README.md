@@ -41,6 +41,8 @@ numbers, so an assistant can say what a rental will really cost - not just what 
 | `supplier_terms` | Per supplier at an airport: price, second-driver fee, full-cover price, deposit, debit card, desk review scores |
 | `build_search_link` | A link for the person: live prices for their exact dates and needs, ranked by the total they will pay, where they can book |
 
+In clients that show MCP Apps (Claude, ChatGPT), `search_rentals` results appear as interactive cards: a photo of each car, the total paid, deposit, excess and debit card, with car-size tabs, filters (automatic, debit card, low deposit, free cancellation, zero excess), side-by-side compare and a Book button.
+
 Measured answers are dated and say how many searches they rest on; live offers say when they were searched. Booking happens on DiscoverCars through Car Rental Brain's link (affiliate; the traveller pays the same price).
 
 ## Example questions
@@ -73,8 +75,9 @@ Or in `claude_desktop_config.json`:
 <details>
 <summary><strong>ChatGPT</strong></summary>
 
-Settings → Apps & Connectors → Advanced → Developer mode → Create → MCP server URL
-`https://app.carrentalbrain.com/mcp`, authentication: none.
+Car Rental Brain is an approved ChatGPT app - nothing to set up.
+[Install in ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6adcda8a3b988191b45dee1d3c7bc428), then ask e.g.
+"Using Car Rental Brain, find me a car at Faro from 15 to 22 January".
 </details>
 
 <details>
